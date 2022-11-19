@@ -23,6 +23,19 @@ body section {
   margin-top: 70px;
   border-radius: 20px;
 }
+#game .box .minibox h1 span {
+  font-size: 25px;
+  margin: 15px 0;
+}
+#game .box .choose .icon {
+  font-size: 45px;
+  margin: 25px 0 0 10px;
+}
+#game .box .minibox2 h1 {
+  font-size: 25px;
+  margin: 10px;
+}
 #game .box .btn {
   border: 1px solid #000000;
+  margin-top: 10px;
 }/*# sourceMappingURL=style.css.map */
